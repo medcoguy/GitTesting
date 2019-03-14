@@ -1,10 +1,10 @@
 ![blogifier logo](https://github.com/medcoguy/GitTesting/blob/master/images/bloglogo-bright.png)
 
-Blogifier is travel-themed blog app that makes it easy to discover new travel destinations with travel stories submitted by people who have been there. The user can read the blog posts submitted by other users or my create their own posts. If the user chooses to create a post, they are required to register as a user. Users also may search the existing posts by location or author.
+#### Blogifier is travel-themed blog app that makes it easy to discover new travel destinations with travel stories submitted by people who have been there. The user can read the blog posts submitted by other users or my create their own posts. If the user chooses to create a post, they are required to register as a user. Users also may search the existing posts by location or author.
 
 -----------------------------------------------------
 
-## This project was created as a group assignment for the Coding Bootcamp at U of MN.
+### This project was created as a group assignment for the Coding Bootcamp at U of MN.
 
 ### Its contributors include:
 
