@@ -39,12 +39,14 @@ https://blogifier.herokuapp.com/
 
 ### Screenshots
 
+## Registration
 ![registration](https://github.com/medcoguy/GitTesting/blob/master/images/Registration.png)
-Registration
-
+ 
+## Login
 ![login](https://github.com/medcoguy/GitTesting/blob/master/images/login.png)
-Login
 
+
+##video
 ![video](https://github.com/medcoguy/GitTesting/blob/master/images/videodisplay.gif)
 
 
