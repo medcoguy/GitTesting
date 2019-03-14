@@ -37,6 +37,23 @@ https://blogifier.herokuapp.com/
 
 -----------------------------------------------------
 
+### Screenshots
+
+![registration](https://github.com/medcoguy/GitTesting/blob/master/images/Registration.png)
+Registration
+
+![login](https://github.com/medcoguy/GitTesting/blob/master/images/login.png)
+Login
+
+![video](https://github.com/medcoguy/GitTesting/blob/master/images/videodisplay.gif)
+
+
+
+
+
+
+
+=====================================================
 ## DOCUMENTATION for Passport.js
 
 Passport is authentication middleware for Node.js. It can be unobtrusively dropped in to any Express-based web applicationIt results in authentication using a username and password.
